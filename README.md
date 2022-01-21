@@ -1,1 +1,1 @@
-# CHEM4555_Spring_2022
+This repository contains materials for CHEM4555/5555
